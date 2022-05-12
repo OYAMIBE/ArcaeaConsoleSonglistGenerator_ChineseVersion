@@ -1,0 +1,14 @@
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.csproj.AssemblyReference.cache
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.AssemblyInfoInputs.cache
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.AssemblyInfo.cs
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.csproj.CoreCompileInputs.cache
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\bin\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.exe
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\bin\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.deps.json
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\bin\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.runtimeconfig.json
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\bin\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.runtimeconfig.dev.json
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\bin\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.dll
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\bin\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.pdb
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.dll
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.pdb
+C:\Users\zhengfang0715\source\repos\ArcaeaSonglistGenerator\ArcaeaSonglistGenerator\obj\Debug\netcoreapp3.1\ArcaeaSonglistGenerator.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\zhengfang0715\Desktop\ArcaeaSonglistGenerator.exe
+C:\Users\zhengfang0715\Desktop\ArcaeaSonglistGenerator.dll
+C:\Users\zhengfang0715\Desktop\ArcaeaSonglistGenerator.deps.json
+C:\Users\zhengfang0715\Desktop\ArcaeaSonglistGenerator.runtimeconfig.json
+C:\Users\zhengfang0715\Desktop\ArcaeaSonglistGenerator.pdb
